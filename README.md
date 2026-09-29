@@ -158,8 +158,8 @@ sql/
 ├── 02_modeling/
 │   ├── fct_transactions.sql
 │   ├── mart_user_summary.sql
-│   ├── mart_transaction_behaviour.sql
-│   └── mart_merchant_behavior.sql
+│   ├── mart_transaction_behavior.sql
+│   └── mart_merchant_behaviour.sql
 │
 ├── 03_aggregates/
 │   ├── agg_txn_daily.sql
